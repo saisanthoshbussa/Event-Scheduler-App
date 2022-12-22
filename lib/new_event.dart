@@ -64,7 +64,7 @@ class _NewEventScreen extends State<NewEventScreen>{
                         shape: const StadiumBorder()),
 
                     child: const Padding(
-                      padding: EdgeInsets.fromLTRB(175, 18, 175, 18),
+                      padding: EdgeInsets.fromLTRB(140, 18, 140, 18),
                       child: Text("ADD",style: TextStyle(fontWeight: FontWeight.bold),),
                     ),
 
